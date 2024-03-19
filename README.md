@@ -39,17 +39,6 @@ Here are some ideas to get you started:
 - **Interest**: Development of tools for Large Language Models (LLMs)
 - **Skills**: Python, LangChain
 
----
-
-📬 Feel free to reach out or learn more:
-- **Email**: ziyuan@stu.pku.edu.cn
-- **LinkedIn**: [Your LinkedIn Profile]
-
-- 🔍 **Interest**: Development of tools for LLMs.
-- 📚 **Skills**: Python|LangChain.
-
----
-
 Feel free to reach out to me or learn more via:
 
 - 📧 Email: ziyuan@stu.pku.edu.cn
